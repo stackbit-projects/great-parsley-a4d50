@@ -12,10 +12,7 @@ sections:
     title: About
     content: |
       I love learning new things! Technology is really cool.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
