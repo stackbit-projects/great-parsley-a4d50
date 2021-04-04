@@ -7,7 +7,7 @@ excerpt: >-
 date: '2016-08-22'
 thumb_img_path: images/bali.jpeg
 thumb_img_alt: A man sitting at the table
-content_img_path: images/bali.jpg
+content_img_path: images/bali.jpeg
 content_img_alt: A man sitting at the table
 seo:
   title: The Advantages and Disadvantages of Working from Home
