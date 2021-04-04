@@ -23,7 +23,7 @@ seo:
       value: Work at home parent is an entrepreneur who works from home
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: images/bali.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
