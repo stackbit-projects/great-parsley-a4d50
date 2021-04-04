@@ -1,11 +1,4 @@
----
-idx: 2
-title: canggu
-catalog: true
-date: 2019-03-08
-subtitle:
-tags: post
-layout: layouts/post.njk
+
 ---
 
 > Canggu is an area in Center-West Bali. It is just above Seminyak (the hip trendy area), and just below the famous Tanah Lot temple.
