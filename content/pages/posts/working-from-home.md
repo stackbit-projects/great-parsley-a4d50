@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: Work at home parent is an entrepreneur who works from home
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: images/bali.jpeg
       relativeUrl: true
 layout: post
 ---
